@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-bandwidth-fonts",
   "description": "Fonts and colors themes settings the website for a better reading experience",
   "main": "index.js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "Apache-2.0",
   "homepage": "https://github.com/dtolb/plugin-fontsettings",
   "engines": {
