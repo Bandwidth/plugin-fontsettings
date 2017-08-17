@@ -4,16 +4,16 @@
   "main": "index.js",
   "version": "1.0.7",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/dtolb/plugin-fontsettings",
+  "homepage": "https://github.com/Bandwidth/plugin-fontsettings",
   "engines": {
     "gitbook": ">=2.4.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dtolb/plugin-fontsettings.git"
+    "url": "https://github.com/Bandwidth/plugin-fontsettings.git"
   },
   "bugs": {
-    "url": "https://github.com/dtolb/plugin-fontsettings/issues"
+    "url": "https://github.com/Bandwidth/plugin-fontsettings/issues"
   },
   "devDependencies": {
     "eslint": "^2.7.0",
